@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "name": "Emre",
+      "surname": "Aydin",
+      "age": 25
+    },
+    {
+      "name": "deneme",
+      "surname": "deneme",
+      "age": 18
+    },
+    {
+      "name": "deneme",
+      "surname": "deneme1",
+      "age": 20
+    },
+    {
+      "name": "deneme",
+      "surname": "deneme2",
+      "age": 21
+    },
+    {
+      "name": "deneme",
+      "surname": "deneme3",
+      "age": 22
+    }
+  ]
+}
